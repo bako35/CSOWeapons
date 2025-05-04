@@ -1,0 +1,1 @@
+poisongun_damage "20.0" // Primary attack damage. Default: 20.0; Zombie Plague: 100.0

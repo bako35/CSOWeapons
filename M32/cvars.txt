@@ -1,0 +1,3 @@
+m32_damage "75.0"
+m32_ammo "6"
+m32_kill_icon "0" // 0 - M3, 1 - Grenade

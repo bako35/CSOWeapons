@@ -1,0 +1,2 @@
+starchaser_exp_damage "5.0"
+starchaser_ammo "35"

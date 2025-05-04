@@ -1,0 +1,5 @@
+5
+weapon			640	m32/640hud75	0	90  	170	45
+weapon_s		640	m32/640hud75	0	135	170	45
+ammo			640	m32/640hud7	192	124	24	24
+crosshair		640 blue_scope		0	0	256	256
