@@ -1,0 +1,2 @@
+janus5_shots "65" // Number of shots to charge the secondary attack. Defult: 65
+zp_janus5_shots "65" // Number of shots to charge the secondary attack. Defult: 65 (Zombie Plague)
