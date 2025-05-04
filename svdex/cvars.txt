@@ -1,0 +1,3 @@
+svdex_ammo "20"
+svdex_alt_ammo "10"
+svdex_alt_damage "200.0"

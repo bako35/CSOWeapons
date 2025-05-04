@@ -1,0 +1,3 @@
+thunderbolt_ammo "30"
+thunderbolt_damage "150.0"
+thunderbolt_infinite_ammo "1" //Only in Zombie Plague

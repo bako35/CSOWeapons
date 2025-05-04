@@ -1,0 +1,2 @@
+thunderghost_damage "50.0"
+thunderghost_radius_damage "5.0"
