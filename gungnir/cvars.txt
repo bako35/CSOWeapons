@@ -1,0 +1,4 @@
+gungnir_alt_secattack "0"
+gungnir_primary_damage "13.0"
+gungnir_secondary_damage "56.0"
+gungnir_alt_secdamage "25.0"

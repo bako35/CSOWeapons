@@ -1,0 +1,1 @@
+cyclone_damage "8.0"
