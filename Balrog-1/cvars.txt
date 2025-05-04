@@ -1,0 +1,2 @@
+balrog1_secondary_damage 36.0
+balrog1_secondary_radius 75.0
